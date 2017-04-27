@@ -1,6 +1,6 @@
 # npmtest-colony
 
-#### test coverage for  [colony (v0.0.7)](https://github.com/hughsk/colony)  [![npm package](https://img.shields.io/npm/v/npmtest-colony.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-colony) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-colony.svg)](https://travis-ci.org/npmtest/node-npmtest-colony)
+#### basic test coverage for  [colony (v0.0.7)](https://github.com/hughsk/colony)  [![npm package](https://img.shields.io/npm/v/npmtest-colony.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-colony) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-colony.svg)](https://travis-ci.org/npmtest/node-npmtest-colony)
 
 #### In-browser network graphs representing the links between your Node.js code and its dependencies.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-colony/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-colony/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-colony/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-colony/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-colony/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-colony/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-colony/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-colony/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-colony/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-colony/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-colony/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-colony/build/coverage.html/index.html)
 
